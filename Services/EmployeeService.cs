@@ -46,6 +46,6 @@ namespace RestApi.Services
 public class Employee
 {
     public string No { get; set; }
-    public string Name { get; set; }
-    public string Contact { get; set; }
+    public string FullName { get; set; }
+    public string Phone_No { get; set; }
 }   
